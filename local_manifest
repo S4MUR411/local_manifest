@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/laurel_sprout" name="S4MUR411/android_device_xiaomi_laurel_sprout.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/xiaomi/laurel_sprout" name="S4MUR411/android_vendor_xiaomi_laurel_sprout-images.git" remote="github" revision="master" />
+ <project path="kernel/xiaomi/laurel_sprout" name="S4MUR411/android_kernel_xiaomi_laurel_sprout.git" remote="github" revision="lineage-18.1" />
+ 
+</manifest>
